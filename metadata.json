@@ -1,0 +1,6 @@
+{
+  "name": "Synthwave Invaders",
+  "description": "An 80s vaporwave Space Invaders game combined with an interactive synthwave procedural audio music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
